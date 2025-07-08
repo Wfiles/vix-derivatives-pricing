@@ -9,6 +9,7 @@ This project provides a comprehensive analysis of the VIX index and its related 
 1. [`derivatives_project.pdf`](./derivatives_project.pdf): Full analytical and mathematical report.
 2. [`vix_and_var.ipynb`](./vix_and_var.ipynb): Jupyter notebook containing Python code for simulations, pricing, and calibration.
 3. [`Fin404-2025-VIXNCO-Data.xlsx`](./Fin404-2025-VIXNCO-Data.xlsx): Market data used for calibration (e.g., SPX options, VIX futures).
+4. [`project_description.pdf`](./project_description.pdf): The project description 
 5. [`README.md`](./README.md): You are here.
 
 ---
